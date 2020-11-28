@@ -1,0 +1,8 @@
+{
+  "name": "test-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mxdsxn/test-jest.git",
+  "author": "Madson Santana <madson.santana@dextra-sw.com>",
+  "license": "MIT"
+}
