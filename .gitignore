@@ -47,6 +47,8 @@ __coverage__/
 # TypeScript v1 declaration files
 typings/
 
+globalConfig.json
+
 # TypeScript cache
 *.tsbuildinfo
 
